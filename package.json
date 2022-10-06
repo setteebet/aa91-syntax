@@ -1,18 +1,18 @@
 {
   "name": "aa91-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "หวย950✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
-"keywords": [
-"หวย950",
-"เว็บ24",
-"lottovip วันเกิด",
-"วิธีเล่นเว็บหวย",
-"เวป lottovip"
-],
+  "version": "0.2.0",
+  "description": "หวย950✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "หวย950",
+    "เว็บ24",
+    "lottovip วันเกิด",
+    "วิธีเล่นเว็บหวย",
+    "เวป lottovip"
+  ],
   "repository": "https://github.com/setteebet/aa91-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
